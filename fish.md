@@ -1,0 +1,3 @@
+Puffer
+Salmon
+Gold
